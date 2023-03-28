@@ -1,0 +1,22 @@
+
+``` json
+{
+    "your_name": “Haig Minasian”,
+    "your_csulb_email": "haig.minasian01@student.csulb.edu",
+    "articles": [
+      {
+        "title": "Mapping Burns and Natural Reforestation using Thematic Mapper Data",
+        "authors": "Lopez Garcia, M., and V. Caselles",
+        "link": "https://www.researchgate.net/publication/246761915_Mapping_burns_and_natural_reforestation_using_Thematic_Mapper_data",
+        "your_summary": "The article discusses how Thematic Mapper data was utilized to create maps of the Australian Alps, which showed the extent of both burnt and naturally regenerated areas. The study revealed that while fires had impacted a significant portion of the region, natural regrowth was also occurring, especially in areas that had not experienced burns in many years. These findings indicate that fire plays a crucial role in the ecological processes of the Australian Alps, and the regrowth of vegetation is important for maintaining the health of the ecosystem."
+      },
+      {
+        "title": "Landscape Assessment: Remote Sensing of Severity, the Normalized Burn Ratio; and Ground Measure of Severity, the Composite Burn Index.",
+        "authors": "Key, C. and N. Benson, N",
+        "link": "https://www.researchgate.net/publication/241687027_Landscape_Assessment_Ground_measure_of_severity_the_Composite_Burn_Index_and_Remote_sensing_of_severity_the_Normalized_Burn_Ratio",
+        "your_summary": "The article explores two methods for evaluating the severity of burn areas: ground measurements using the Composite Burn Index (CBI) and remote sensing using the Normalized Burn Ratio (NBR). The study conducted a comparison of the accuracy of both techniques in assessing burn severity in two locations in the United States. The findings indicated that while both methods were effective, remote sensing using NBR proved to be more efficient and accurate in assessing burn severity over a larger area."
+      }
+    ]
+}
+
+```
